@@ -1,0 +1,986 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-07-09",
+  "updatedAt": "2026-07-09T19:00:00Z",
+  "exportedAt": "2026-07-09T23:19:40.280Z",
+  "districtCode": "MI-10",
+  "data": {
+    "DISTRICT": {
+      "id": "mi-10",
+      "districtNumber": "MI-10",
+      "districtName": "Michigan's 10th Congressional District",
+      "state": "Michigan",
+      "counties": [
+        "Macomb",
+        "Oakland"
+      ],
+      "majorPlaces": [
+        "Warren",
+        "Sterling Heights",
+        "St. Clair Shores",
+        "Clinton Township",
+        "Shelby Township",
+        "Roseville",
+        "Eastpointe",
+        "Mount Clemens",
+        "Rochester",
+        "Rochester Hills"
+      ],
+      "cycleYear": 2026,
+      "population": 754919,
+      "registeredVoters": null,
+      "partyRegistration": null,
+      "boundaryConfidence": "high",
+      "electorateConfidence": "unconfirmed",
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — MI-10",
+        "winner": {
+          "name": "John James (R)",
+          "pct": 51.1,
+          "votes": 217437
+        },
+        "runnerUp": {
+          "name": "Carl Marlinga (D)",
+          "pct": 45,
+          "votes": 191363
+        },
+        "turnoutPct": 56.3
+      },
+      "newsDiscoveryHints": {
+        "geographicHint": "MI-10 is anchored in Macomb County (Warren, Sterling Heights, Clinton Township, Shelby Township, St. Clair Shores, Roseville, Eastpointe, Mount Clemens, Center Line, Fraser, Harrison Township, Utica, part of Macomb Township, part of the Village of Grosse Pointe Shores) plus a small portion of Oakland County (Rochester, Rochester Hills). Open seat for 2026: Rep. John James (R) is running for Governor rather than re-election.",
+        "preferredOutlets": [
+          "Detroit Free Press",
+          "Detroit News",
+          "WDIV",
+          "WXYZ",
+          "Macomb Daily",
+          "Michigan Advance",
+          "Bridge Michigan",
+          "MLive",
+          "Votebeat Michigan"
+        ]
+      }
+    },
+    "SOURCES": {
+      "src-mi-sos-elections": {
+        "id": "src-mi-sos-elections",
+        "name": "Michigan Secretary of State — Elections landing page",
+        "short": "MI SOS Elections",
+        "url": "https://www.michigan.gov/sos/elections",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-how-to-vote": {
+        "id": "src-mi-sos-how-to-vote",
+        "name": "Michigan SOS — How to Vote in Michigan",
+        "short": "MI SOS How to Vote",
+        "url": "https://www.michigan.gov/sos/elections/voting",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Consolidated hub page for registration, absentee voting, ID requirements, and early voting."
+      },
+      "src-mi-sos-absentee": {
+        "id": "src-mi-sos-absentee",
+        "name": "Michigan SOS — Absentee Voting",
+        "short": "MI SOS Absentee",
+        "url": "https://www.michigan.gov/sos/elections/voting/absentee-voting",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-register": {
+        "id": "src-mi-sos-register",
+        "name": "Michigan SOS — Register to Vote",
+        "short": "MI SOS Register",
+        "url": "https://www.michigan.gov/sos/elections/voting/register-to-vote",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-signature-cure": {
+        "id": "src-mi-sos-signature-cure",
+        "name": "Michigan SOS — Signature Cure Guidelines",
+        "short": "MI SOS Signature Cure",
+        "url": "https://www.michigan.gov/sos/elections/voting/voters/signature-cure-guidelines",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-results": {
+        "id": "src-mi-sos-results",
+        "name": "Michigan SOS — Election Results and Data",
+        "short": "MI SOS Results",
+        "url": "https://www.michigan.gov/sos/elections/election-results-and-data",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-election-dates-pdf": {
+        "id": "src-mi-sos-election-dates-pdf",
+        "name": "Michigan SOS — 2026 Election Dates (PDF)",
+        "short": "MI SOS Election Dates PDF",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Election-Administrators/Election-Dates.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Primary anchor for all 2026 general-election calendar dates: registration deadlines, early voting, AV request/return, MOVE deadline, polling hours."
+      },
+      "src-mi-sos-voter-id-flyer": {
+        "id": "src-mi-sos-voter-id-flyer",
+        "name": "Michigan SOS — Voter ID Flyer (PDF)",
+        "short": "MI SOS Voter ID Flyer",
+        "url": "https://www.michigan.gov/-/media/Project/Websites/sos/05mcalpine/photo_id_flyer.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-affidavit-pdf": {
+        "id": "src-mi-sos-affidavit-pdf",
+        "name": "Michigan SOS — Affidavit of Voter Not in Possession of Picture ID (PDF)",
+        "short": "MI SOS ID Affidavit",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-transparency/Affidavit-of-Voter-not-in-Possession-of-Picture-Identification.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-sos-signature-verification-pdf": {
+        "id": "src-mi-sos-signature-verification-pdf",
+        "name": "Michigan SOS — Signature Verification, Voter Notification, and Signature Cure (PDF)",
+        "short": "MI SOS Signature Verification PDF",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-transparency-3/MDOS0000881.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "AV application signature cure deadline (4pm Fri before Election Day, then in-person only) and return-envelope signature cure deadline (5pm the third day after the election)."
+      },
+      "src-mi-sos-drop-box-pdf": {
+        "id": "src-mi-sos-drop-box-pdf",
+        "name": "Michigan SOS — AV Ballot Drop Box Guidance (PDF)",
+        "short": "MI SOS Drop Box Guidance",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-transparency-2/MDOS0000055.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Prop 2 mandate: at least 1 state-funded drop box per municipality, scaling with registered voters; video monitoring required for ALL drop boxes starting Jan 1, 2026 (MCL 168.761d(7))."
+      },
+      "src-mi-sos-ballot-tracking-pdf": {
+        "id": "src-mi-sos-ballot-tracking-pdf",
+        "name": "Michigan SOS — Ballot Tracking Guidance (PDF)",
+        "short": "MI SOS Ballot Tracking",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Clerk-toolkit/Talking-points/Ballot-Tracking.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Public Act 84 state-funded AV tracking system with opt-in email/text deficiency notifications."
+      },
+      "src-mi-sos-registered-voter-count-pdf": {
+        "id": "src-mi-sos-registered-voter-count-pdf",
+        "name": "Michigan SOS — 2024 Registered Voter Count (PDF)",
+        "short": "MI SOS 2024 Reg. Voter Count",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Election-Results-and-Statistics/Registered-Voter-Count/2024-Registered-Voter-Count.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
+      },
+      "src-mi-sos-bsc-petition-pdf": {
+        "id": "src-mi-sos-bsc-petition-pdf",
+        "name": "Michigan SOS — Board of State Canvassers Petition Filing, \"Americans for Citizens Voting\" (PDF)",
+        "short": "MI SOS BSC Petition Filing",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/BSC-Announcements/20260616-Americans-for-Citizens-Voting-v2.pdf",
+        "publisher": "Michigan Secretary of State — Board of State Canvassers",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Proposed constitutional amendment to eliminate the no-ID affidavit alternative; in petition-review stage as of June 16, 2026, NOT current law."
+      },
+      "src-mi-mvic": {
+        "id": "src-mi-mvic",
+        "name": "Michigan Voter Information Center (MVIC)",
+        "short": "MI MVIC",
+        "url": "https://mvic.sos.state.mi.us/Voter/Index",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Statewide tool for polling-place lookup, registration status, drop-box locations, sample ballot, and AV ballot tracking."
+      },
+      "src-mi-boe-candidate-listing": {
+        "id": "src-mi-boe-candidate-listing",
+        "name": "Michigan Board of Elections — Official Candidate Listing Tool",
+        "short": "MI BOE Candidate Listing",
+        "url": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=PRI&electionYear=2026",
+        "publisher": "Michigan Bureau of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-mi-coa-stub-opinion": {
+        "id": "src-mi-coa-stub-opinion",
+        "name": "Michigan Court of Appeals — Opinion on AV Ballot Stub Rejection (June 26, 2026)",
+        "short": "MI COA Stub Opinion",
+        "url": "https://www.courts.michigan.gov/49ed62/siteassets/case-documents/uploads/opinions/final/coa/20260626_c379136_39_379136.opn.pdf",
+        "publisher": "Michigan Court of Appeals",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
+      },
+      "src-macomb-clerk-elections": {
+        "id": "src-macomb-clerk-elections",
+        "name": "Macomb County Clerk — Elections",
+        "short": "Macomb Co. Clerk Elections",
+        "url": "https://clerk.macombgov.org/Clerk-Elections",
+        "publisher": "Macomb County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-macomb-candidate-list-pdf": {
+        "id": "src-macomb-candidate-list-pdf",
+        "name": "Macomb County — Official Candidate List for the August 4, 2026 Election (PDF)",
+        "short": "Macomb Co. Candidate List",
+        "url": "https://macombgovdocs.org/clerk/pdfs/elect-2026-08-04-candidate-list.pdf",
+        "publisher": "Macomb County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirmed Aug. 4, 2026 primary field: Democratic — Eric Chung, Tim Greimel, Christina Bertrand Hines; Republican — Michael Bouchard, Steffan Demetropoulos, Justin Kirk, Robert Lulgjuraj."
+      },
+      "src-house-fiscal-prop22-2-brief": {
+        "id": "src-house-fiscal-prop22-2-brief",
+        "name": "Michigan House Fiscal Agency — Background Brief, Proposal 22-2",
+        "short": "House Fiscal Prop 22-2 Brief",
+        "url": "https://www.house.mi.gov/hfa/PDF/Alpha/Background_Brief_Proposal_22-2_Jan2024.pdf",
+        "publisher": "Michigan House Fiscal Agency",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms Prop 2 (2022) constitutional guarantees cannot be repealed by ordinary legislation."
+      },
+      "src-cornell-mich-admin-code-168-26": {
+        "id": "src-cornell-mich-admin-code-168-26",
+        "name": "Mich. Admin. Code R. 168.26 (signature comparison standard)",
+        "short": "Mich. Admin. Code R. 168.26",
+        "url": "https://www.law.cornell.edu/regulations/michigan/Mich-Admin-Code-R-168-26",
+        "publisher": "Cornell Law School (Legal Information Institute)",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-votingaccessforall-court-update": {
+        "id": "src-votingaccessforall-court-update",
+        "name": "Voting Access for All Coalition — Michigan Election Court Update (July 2, 2026)",
+        "short": "VAFA MI Court Update",
+        "url": "https://votingaccessforall.org/2026/07/michigan-election-court-update-current-voting-procedures-remain-in-place/",
+        "publisher": "Voting Access for All Coalition",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Summarizes four pending federal/state court matters as of July 2, 2026; confirms none currently change 2026 voting procedures."
+      },
+      "src-ballotpedia-mi10": {
+        "id": "src-ballotpedia-mi10",
+        "name": "Ballotpedia — Michigan's 10th Congressional District",
+        "short": "Ballotpedia MI-10",
+        "url": "https://ballotpedia.org/Michigan's_10th_Congressional_District",
+        "publisher": "Ballotpedia",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ballotpedia-four-republicans": {
+        "id": "src-ballotpedia-four-republicans",
+        "name": "Ballotpedia News — Four Republicans Running to Succeed Rep. John James in MI-10",
+        "short": "Ballotpedia Four Republicans",
+        "url": "https://news.ballotpedia.org/2026/06/16/four-republicans-running-to-succeed-u-s-rep-john-james-r-in-michigans-10th-congressional-district/",
+        "publisher": "Ballotpedia News",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms final four-candidate GOP primary field ahead of the Aug. 4, 2026 primary; identifies Bouchard and Lulgjuraj as fundraising/polling leaders."
+      },
+      "src-freep-primary-dates": {
+        "id": "src-freep-primary-dates",
+        "name": "Detroit Free Press — When is Michigan's 2026 primary election? Dates to know",
+        "short": "Freep 2026 Primary Dates",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/03/04/michigan-primaries-2026-election-dates/88978453007/",
+        "publisher": "Detroit Free Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-hoodline-stub-ruling": {
+        "id": "src-hoodline-stub-ruling",
+        "name": "Hoodline — Detroit Mail Ballot Showdown: Appeals Court Lets Clerks Count Votes Missing Stubs",
+        "short": "Hoodline Stub Ruling",
+        "url": "https://hoodline.com/2026/06/detroit-mail-ballot-showdown-appeals-court-lets-clerks-count-votes-missing-stubs/",
+        "publisher": "Hoodline",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-apnews-james-governor": {
+        "id": "src-apnews-james-governor",
+        "name": "AP News — Democrats flood competitive Michigan district as James runs for governor",
+        "short": "AP News James Governor Run",
+        "url": "https://apnews.com/article/michigan-congress-race-competitive-james-fc62b96e5bad298dcdc86a6686e3bce3",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms James's April 7, 2025 announcement of a gubernatorial run, making MI-10 an open seat for 2026."
+      },
+      "src-wikipedia-mi10": {
+        "id": "src-wikipedia-mi10",
+        "name": "Wikipedia — Michigan's 10th congressional district",
+        "short": "Wikipedia MI-10",
+        "url": "https://en.wikipedia.org/wiki/Michigan's_10th_congressional_district",
+        "publisher": "Wikipedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 7,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Used for the municipality list (cross-checked against MichiganRepublicanPrimary.com race analysis) and 2024 previousResult vote totals (cross-checked against Ballotpedia and 2024 U.S. House elections in Michigan page)."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-mi10-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-08-04",
+        "significance": "Democratic and Republican primaries to select each party's MI-10 general-election nominee for the open seat vacated by Rep. John James's gubernatorial run. Confirmed fields: Democratic — Eric Chung, Tim Greimel, Christina Bertrand Hines; Republican — Michael Bouchard, Steffan Demetropoulos, Justin Kirk, Robert Lulgjuraj. As of this build (July 9, 2026), this election has NOT YET OCCURRED; no results exist yet.",
+        "governingAuthority": "Michigan Secretary of State; Macomb and Oakland county clerks",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf",
+          "src-macomb-candidate-list-pdf",
+          "src-ballotpedia-four-republicans"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-optional-early-voting-begins",
+        "milestone": "Optional early in-person voting may begin",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "Local clerks may optionally begin early in-person voting ahead of the mandatory Prop 2 window.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-move-deadline",
+        "milestone": "MOVE deadline (military/overseas ballot transmission)",
+        "electionType": "general",
+        "date": "2026-09-19",
+        "significance": "Federal MOVE Act deadline for local clerks to transmit absentee ballots to military and overseas voters for the November 3, 2026 general election.",
+        "governingAuthority": "Michigan Secretary of State; Macomb and Oakland county clerks",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-av-ballots-available",
+        "milestone": "Absent voter (AV) ballots available for issuance",
+        "electionType": "general",
+        "date": "2026-09-24",
+        "significance": "Local clerks begin issuing absentee ballots to voters who have already requested them for the November 3, 2026 general election.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-reg-deadline",
+        "milestone": "Voter registration deadline — online or by mail",
+        "electionType": "general",
+        "date": "2026-10-19",
+        "significance": "Deadline for online or mailed (postmarked) voter registration ahead of the November 3, 2026 general election. In-person registration (with proof of residency) remains open from the next day through Election Day.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf",
+          "src-mi-sos-how-to-vote"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-in-person-reg-window-begins",
+        "milestone": "In-person registration window begins (proof of residency required)",
+        "electionType": "general",
+        "date": "2026-10-20",
+        "significance": "In-person voter registration with proof of residency remains open at the local clerk's office through 8:00 PM on Election Day, November 3, 2026.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-mandatory-early-voting-window",
+        "milestone": "Mandatory (Proposal 2) early in-person voting period begins",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Constitutionally mandated 9 consecutive days of early in-person voting begins, running through Sunday, November 1, 2026. Every Michigan municipality must offer this.",
+        "governingAuthority": "Michigan Secretary of State (Mich. Const. Art. II, §4)",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf",
+          "src-freep-primary-dates"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-av-request-deadline-online-mail",
+        "milestone": "Absentee ballot request deadline — online or by mail",
+        "electionType": "general",
+        "date": "2026-10-30",
+        "significance": "5:00 PM deadline (the Friday before Election Day) to request an absentee ballot online or by mail for the November 3, 2026 general election.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-mandatory-early-voting-ends",
+        "milestone": "Mandatory (Proposal 2) early in-person voting period ends",
+        "electionType": "general",
+        "date": "2026-11-01",
+        "significance": "Last day of the constitutionally mandated 9-day early in-person voting window; absentee ballots may also be returned in person at early-voting sites through this date.",
+        "governingAuthority": "Michigan Secretary of State (Mich. Const. Art. II, §4)",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-military-av-application-deadline",
+        "milestone": "Military/overseas AV ballot application deadline",
+        "electionType": "general",
+        "date": "2026-10-31",
+        "significance": "2:00 PM deadline for military and overseas voters to submit an absentee ballot application for the November 3, 2026 general election.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-emergency-av-window-begins",
+        "milestone": "Emergency absentee voting window begins",
+        "electionType": "general",
+        "date": "2026-10-30",
+        "significance": "5:00 PM. Emergency absentee voting (for qualifying late circumstances) opens and runs through 4:00 PM on Election Day, November 3, 2026.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-av-request-deadline-in-person",
+        "milestone": "Absentee ballot request deadline — in person (already-registered voters)",
+        "electionType": "general",
+        "date": "2026-11-02",
+        "significance": "4:00 PM deadline (the day before Election Day) for already-registered voters to request an absentee ballot in person at the local clerk's office.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf",
+          "src-mi-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. MI-10 is an open seat: Rep. John James (R) is running for Governor rather than re-election. The general-election field is NOT YET DETERMINED as of this build — it depends on the outcome of the August 4, 2026 primary (confirmed candidates: Democratic — Eric Chung, Tim Greimel, Christina Bertrand Hines; Republican — Michael Bouchard, Steffan Demetropoulos, Justin Kirk, Robert Lulgjuraj). No minor-party or independent candidates were confirmed for the general as of this report. Polls open 7:00 AM - 8:00 PM.",
+        "governingAuthority": "Michigan Secretary of State; Macomb and Oakland county clerks",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf",
+          "src-macomb-candidate-list-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-av-request-same-day",
+        "milestone": "Absentee ballot request — same-day registration and in-person AV",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Up to 8:00 PM on Election Day, a voter registering the same day may request and cast an absentee ballot in person at the clerk's office.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-av-return-deadline",
+        "milestone": "Absentee ballot return deadline",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "8:00 PM on Election Day. Absentee ballots must be received (via mail, drop box, or the clerk's office) by this deadline — not merely postmarked, with the exception of military/overseas ballots (see separate event).",
+        "governingAuthority": "Michigan Secretary of State; Macomb and Oakland county clerks",
+        "sourceIds": [
+          "src-mi-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi10-military-return-deadline",
+        "milestone": "Military/overseas ballot return deadline",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Military and overseas ballots must be postmarked by Election Day, November 3, 2026, and are accepted if received within 6 days after the election.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-mi-voter-id-affidavit",
+        "topic": "Voter ID requirement with constitutional no-ID affidavit alternative",
+        "currentRule": "Every Michigan voter voting in person (Election Day or early voting) must show photo ID or sign the \"Affidavit of Voter Not in Possession of Picture Identification\" to receive a regular ballot. No one is turned away or forced onto a provisional ballot solely for lacking ID. Acceptable photo IDs include a Michigan driver's license/state ID, an out-of-state driver's license/ID, federal/state/local government-issued photo ID, U.S. passport, military ID, student photo ID from an educational institution, and tribal photo ID.",
+        "status": "active",
+        "whyItMatters": "MI-10 voters across Macomb and Oakland counties who lack an accepted photo ID can still vote a regular ballot by signing the affidavit — this is a constitutional right under Proposal 2 of 2022 and cannot be overridden by ordinary legislation.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-voter-id-flyer",
+          "src-mi-sos-affidavit-pdf",
+          "src-house-fiscal-prop22-2-brief"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: a proposed 2026/2027 constitutional amendment (\"Americans for Citizens Voting\") that would eliminate the no-ID affidavit alternative and require documentary proof of citizenship was in Board of State Canvassers petition-review stage as of June 16, 2026. This is a proposed ballot measure, not current law, and would not affect the 2026 cycle even if it eventually qualifies."
+      },
+      {
+        "id": "rule-mi-signature-verification-cure",
+        "topic": "Absentee ballot signature verification and cure process",
+        "currentRule": "An elector's signature on an AV application or return envelope is invalid only if it differs in significant and obvious respects from the signature on file in the Qualified Voter File; slight dissimilarities must be resolved in the voter's favor. AV application signature deficiencies can be cured until 4:00 PM the Friday before Election Day (Oct. 30, 2026) via electronic, in-person, or mail cure form; between 4:00 PM Friday and 4:00 PM the Monday before Election Day (Nov. 2, 2026), curing must be done in person. Return-envelope signature deficiencies can be cured until 5:00 PM on the third day after the election.",
+        "status": "active",
+        "whyItMatters": "MI-10 voters whose absentee ballot application or return envelope is flagged for a signature issue have a defined, time-limited path to fix it and ensure their vote counts; missing the cure window results in an uncured/rejected ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-signature-verification-pdf",
+          "src-mi-sos-signature-cure",
+          "src-cornell-mich-admin-code-168-26"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "A June 12, 2024 Court of Claims ruling struck down an 'initial presumption of validity' jury instruction while upholding the underlying Rule 168.26 standard; monitor for any further litigation before Nov. 3, 2026."
+      },
+      {
+        "id": "rule-mi-av-stub-litigation",
+        "topic": "Absentee ballot return-envelope 'stub' number handling (active litigation)",
+        "currentRule": "As of a June 26, 2026 Michigan Court of Appeals opinion, a missing or mismatched AV ballot return-envelope stub number does NOT require automatic rejection of the ballot. Instead, the ballot is tabulated as a 'challenged ballot' under existing Secretary of State guidance rather than rejected outright. This reversed a lower Court of Claims order that would have mandated automatic rejection.",
+        "status": "active",
+        "whyItMatters": "MI-10 voters in Macomb and Oakland counties whose AV ballot has a stub-number discrepancy will have that ballot tabulated as a challenged ballot rather than automatically rejected — but this could change again if the ruling is appealed to the Michigan Supreme Court before November 3, 2026.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-coa-stub-opinion",
+          "src-hoodline-stub-ruling",
+          "src-votingaccessforall-court-update"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: plaintiffs may still seek Michigan Supreme Court review of the June 26, 2026 Court of Appeals opinion. Re-verify closer to Election Day."
+      },
+      {
+        "id": "rule-mi-prop2-early-voting-dropbox-tracking",
+        "topic": "Proposal 2 (2022) mandates: early voting, drop boxes, ballot tracking",
+        "currentRule": "Proposal 2 (approved Nov. 2022) requires: (1) a minimum 9 consecutive days of early in-person voting before every state/federal election (Oct. 24-Nov. 1, 2026 for the general); (2) at least one state-funded AV ballot drop box per municipality, with additional boxes required at a rate of 1 per 15,000 registered voters, ADA-compliant, secured, and open 24/7 during the 40 days before Election Day through 8:00 PM on Election Day; (3) video monitoring required for ALL drop boxes starting January 1, 2026 (MCL 168.761d(7)), regardless of installation date; (4) a state-funded electronic AV application/ballot tracking system with opt-in email/text deficiency notifications (Public Act 84); (5) a permanent absentee ballot list (single standing application); (6) military/overseas ballots counted if postmarked by Election Day.",
+        "status": "active",
+        "whyItMatters": "MI-10 voters in Macomb and Oakland county municipalities are guaranteed at least 9 days of early voting, access to a monitored drop box in their municipality, and an online/app tool to track their absentee ballot status — all are constitutional rights that cannot be reduced by ordinary legislation.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-drop-box-pdf",
+          "src-mi-sos-ballot-tracking-pdf",
+          "src-house-fiscal-prop22-2-brief"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: exact number and specific locations of drop boxes within Macomb County's 14 MI-10 municipalities and Rochester/Rochester Hills were not independently itemized this pass — voters should confirm via the Macomb County Clerk or MVIC drop-box locator."
+      },
+      {
+        "id": "rule-mi-registered-voter-count-gap",
+        "topic": "No official MI-10-specific registered-voter count located",
+        "currentRule": "The Michigan SOS publishes statewide and county/township-level registered-voter counts (e.g., the 2024 Registered Voter Count PDF), but this dataset is organized by jurisdiction, not by congressional district, and no MI-10-specific rollup was located in this research pass. Only third-party population estimates (roughly 711,809-775,218) were found, which are not a substitute for a registered-voter count.",
+        "status": "active",
+        "whyItMatters": "Any MI-10 registered-voter figure shown on the dashboard should be flagged as unconfirmed/derived until a direct pull from SOS county/township registration files for the 14 Macomb municipalities plus Rochester/Rochester Hills is performed.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-registered-voter-count-pdf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: recommend a direct pull/sum from the SOS jurisdiction-level registration file for the 14 Macomb municipalities plus Rochester/Rochester Hills to produce a defensible MI-10-specific figure."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-register",
+        "label": "Register to vote",
+        "description": "Official Michigan registration hub, including online registration, mail-in forms, and in-person options ahead of the November 3, 2026 general election.",
+        "url": "https://www.michigan.gov/sos/elections/voting/register-to-vote",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-sos-register",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Michigan Voter Information Center (MVIC) lookup for Election Day and early-voting polling place and hours, by name/address.",
+        "url": "https://mvic.sos.state.mi.us/Voter/Index",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-mvic",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot drop-off options",
+        "description": "Michigan requires at least one state-funded, video-monitored absentee ballot drop box per municipality under Proposal 2 (2022); locations are accessed via the MVIC tool. The Macomb County Clerk's Elections page is a useful county-level complement for MI-10's 14 Macomb municipalities plus Rochester/Rochester Hills in Oakland County.",
+        "url": "https://mvic.sos.state.mi.us/Voter/Index",
+        "governingAuthority": "Michigan Secretary of State; Macomb County Clerk",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-sos-drop-box-pdf",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Michigan Voter Information Center (MVIC) tool to check and update current voter registration status.",
+        "url": "https://mvic.sos.state.mi.us/Voter/Index",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-mvic",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your absentee ballot",
+        "description": "Michigan Voter Information Center (MVIC) tool to track an absentee ballot application and ballot status, part of the state-funded Public Act 84 tracking system with optional email/text deficiency alerts.",
+        "url": "https://mvic.sos.state.mi.us/Voter/Index",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-sos-ballot-tracking-pdf",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-verify",
+        "label": "View your sample ballot",
+        "description": "Michigan Voter Information Center (MVIC) tool to preview the sample ballot for your precinct ahead of the election.",
+        "url": "https://mvic.sos.state.mi.us/Voter/Index",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-mvic",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Michigan Secretary of State results and data portal.",
+        "url": "https://www.michigan.gov/sos/elections/election-results-and-data",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-sos-results",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-macomb-county",
+        "label": "Macomb County Clerk — Elections",
+        "description": "Most populous MI-10 county (14 of 16 district municipalities). County-level candidate lists, Public Accuracy Test notices, and links to statewide MVIC tools.",
+        "url": "https://clerk.macombgov.org/Clerk-Elections",
+        "governingAuthority": "Macomb County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-macomb-clerk-elections",
+        "lastVerified": "2026-07-09"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-mi10-001",
+        "title": "MI-10 dashboard initialized from wa-03 template — 26 sources, 16 events, 5 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build July 9, 2026, cloned from the WA-03 template structure. All 26 sources (Michigan SOS/MVIC, Macomb County Clerk, Michigan Court of Appeals, and dated news reporting) recorded from primary-source research. All 16 election events and 5 voting rules researched from the Michigan SOS 2026 Election Dates PDF and related SOS guidance, but all marked needsReview/unconfirmed pending human QA. This is an open seat: Rep. John James (R) is running for Governor rather than seeking re-election.",
+        "sourceIds": [
+          "src-mi-sos-election-dates-pdf",
+          "src-mi-sos-elections",
+          "src-macomb-clerk-elections",
+          "src-apnews-james-governor"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-mi10-002",
+        "title": "2026 primary has not yet occurred — no general-election nominees confirmed",
+        "fieldChanged": "Candidate field / previousResult basis",
+        "oldValue": "Not yet reviewed",
+        "newValue": "As of this build (July 9, 2026), the August 4, 2026 primary has not occurred. previousResult is populated from the 2024 general election (John James vs. Carl Marlinga) rather than a 2026 primary or general result. Confirmed filed candidates for the Aug. 4, 2026 primary: Democratic — Eric Chung, Tim Greimel, Christina Bertrand Hines; Republican — Michael Bouchard, Steffan Demetropoulos, Justin Kirk, Robert Lulgjuraj. No minor-party/independent candidates confirmed for the Nov. 3, 2026 general as of this report.",
+        "sourceIds": [
+          "src-macomb-candidate-list-pdf",
+          "src-ballotpedia-four-republicans"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-mi10-003",
+        "title": "Active litigation: AV ballot stub case and proposed voter-ID constitutional amendment",
+        "fieldChanged": "QA status / active litigation and ballot-measure tracking",
+        "oldValue": "Not yet reviewed",
+        "newValue": "5 voting rules and 16 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-07-09). The June 26, 2026 Michigan Court of Appeals ruling on AV ballot stub numbers currently governs (challenged-ballot treatment, not automatic rejection), but may be appealed to the Michigan Supreme Court before Nov. 3, 2026. Separately, a proposed 'Americans for Citizens Voting' constitutional amendment to eliminate the no-ID affidavit alternative was in Board of State Canvassers petition-review stage as of June 16, 2026 — not current law and not applicable to the 2026 cycle even if it eventually qualifies.",
+        "sourceIds": [
+          "src-mi-coa-stub-opinion",
+          "src-mi-sos-bsc-petition-pdf",
+          "src-votingaccessforall-court-update"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-mi10-001",
+        "factInQuestion": "MI-10's registered-voter count.",
+        "sourceAId": "src-mi-sos-registered-voter-count-pdf",
+        "sourceAClaim": "The Michigan SOS's Registered Voter Count dataset is organized by jurisdiction (county/township), not congressional district; no MI-10-specific total is published directly.",
+        "sourceBId": "src-wikipedia-mi10",
+        "sourceBClaim": "Third-party aggregators (StatisticalAtlas, FOX 2 Detroit) cite district total-population figures of roughly 711,809-775,218, which are sometimes informally treated as a stand-in for registered-voter counts.",
+        "whyItMatters": "Population and registered-voter counts are materially different figures; using population as a proxy could overstate or misrepresent the district's actual electorate size for turnout calculations.",
+        "suggestedReviewAction": "Sum SOS jurisdiction-level registration figures for the 14 Macomb municipalities (Center Line, Clinton Twp., Eastpointe, Fraser, Harrison Twp., Macomb Twp. [part], Mount Clemens, Roseville, Shelby Twp., Sterling Heights, St. Clair Shores, Utica, Village of Grosse Pointe Shores [part], Warren) plus Rochester and Rochester Hills (Oakland County) to derive a defensible MI-10-specific registered-voter total; mark as unconfirmed/derived until done.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      },
+      {
+        "id": "conf-mi10-002",
+        "factInQuestion": "Whether the Michigan Court of Appeals' June 26, 2026 ruling on AV ballot stub handling is the final word for the 2026 general election.",
+        "sourceAId": "src-mi-coa-stub-opinion",
+        "sourceAClaim": "The Court of Appeals reversed the automatic-rejection requirement; ballots with missing/mismatched stub numbers are tabulated as 'challenged ballots' under existing SOS guidance.",
+        "sourceBId": "src-votingaccessforall-court-update",
+        "sourceBClaim": "The July 2, 2026 court-update summary notes this ruling is current guidance but flags that plaintiffs may still seek Michigan Supreme Court review before the November 2026 election.",
+        "whyItMatters": "MI-10 voters and clerks in Macomb and Oakland counties need to know which stub-handling rule applies on Election Day; a Supreme Court reversal before Nov. 3, 2026 could change the outcome again.",
+        "suggestedReviewAction": "Monitor Michigan Supreme Court docket activity related to this case through Election Day; update the rule and this conflict entry if a stay or reversal is issued.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-mi10-001",
+        "headline": "Democrats flood competitive Michigan district as James runs for governor",
+        "sourceName": "Associated Press",
+        "url": "https://apnews.com/article/michigan-congress-race-competitive-james-fc62b96e5bad298dcdc86a6686e3bce3",
+        "publishedAt": "2025-04-11",
+        "relevanceSummary": "Confirms Rep. John James's April 7, 2025 announcement of a gubernatorial run, making MI-10 an open seat for the 2026 cycle and triggering a crowded Democratic field.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-002",
+        "headline": "Anyone's Guess in the 10th District",
+        "sourceName": "Detroit Regional Chamber",
+        "url": "https://www.detroitchamber.com/anyones-guess-in-the-10th-district/",
+        "publishedAt": "2025-08-01",
+        "relevanceSummary": "Details the crowded Democratic primary field (Greimel, Chung, Hines, Hawkins) and early Republican recruitment efforts for the open MI-10 seat.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-003",
+        "headline": "When is Michigan's 2026 primary election? Dates to know",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/03/04/michigan-primaries-2026-election-dates/88978453007/",
+        "publishedAt": "2026-03-04",
+        "relevanceSummary": "Confirms the November 3, 2026 general-election date and the October 24-November 1 mandatory early-voting window statewide, applicable to MI-10.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-004",
+        "headline": "Four Republicans running to succeed U.S. Rep. John James (R) in Michigan's 10th Congressional District",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/06/16/four-republicans-running-to-succeed-u-s-rep-john-james-r-in-michigans-10th-congressional-district/",
+        "publishedAt": "2026-06-17",
+        "relevanceSummary": "Confirms the final four-candidate Republican primary field (Bouchard, Demetropoulos, Kirk, Lulgjuraj) heading into the August 4, 2026 primary.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-005",
+        "headline": "Detroit Mail Ballot Showdown: Appeals Court Lets Clerks Count Votes Missing Stubs",
+        "sourceName": "Hoodline",
+        "url": "https://hoodline.com/2026/06/detroit-mail-ballot-showdown-appeals-court-lets-clerks-count-votes-missing-stubs/",
+        "publishedAt": "2026-06-27",
+        "relevanceSummary": "Reports the Michigan Court of Appeals ruling preserving 'challenged ballot' treatment (rather than automatic rejection) for AV ballots with missing/mismatched stub numbers, directly relevant to MI-10 clerks in Macomb and Oakland counties.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-006",
+        "headline": "Michigan Election Court Update: Current Voting Procedures Remain in Place",
+        "sourceName": "Voting Access for All Coalition",
+        "url": "https://votingaccessforall.org/2026/07/michigan-election-court-update-current-voting-procedures-remain-in-place/",
+        "publishedAt": "2026-07-02",
+        "relevanceSummary": "Summarizes four pending federal/state court matters (DOJ voter-file suit, citizenship-documentation EO, SAVE database, AV stub case) and confirms none currently change 2026 voting procedures for MI-10 or any other Michigan district.",
+        "tag": "administration",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-07-09-mi-10-initial-build",
+      "startedAt": "2026-07-09T18:00:00Z",
+      "completedAt": "2026-07-09T19:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 26,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "Initial WA-03-cloned build for MI-10, populated from primary-source research (Michigan Secretary of State/MVIC, Macomb County Clerk, Michigan Court of Appeals, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA. This is an open seat (Rep. John James running for Governor); the August 4, 2026 primary has not yet occurred as of this build, so previousResult is populated from the 2024 general election rather than any 2026 result, and the general-election-day event describes the field as pending the primary outcome."
+    },
+    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-mi10-2026-w28",
+      "periodStart": "2026-07-09",
+      "periodEnd": "2026-07-09",
+      "sourcesChecked": 26,
+      "newUpdates": 3,
+      "conflictsCreated": 2,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 21,
+      "sourceErrors": 0,
+      "summary": "Initial build for MI-10, cloned from the WA-03 dashboard template ahead of the November 3, 2026 general election. Open seat: Rep. John James (R) is running for Governor of Michigan in 2026 rather than seeking re-election. The August 4, 2026 primary has NOT YET OCCURRED as of this report (July 9, 2026); confirmed filed fields are 3 Democrats (Chung, Greimel, Hines) and 4 Republicans (Bouchard, Demetropoulos, Kirk, Lulgjuraj), with no primary winners or minor-party/independent general candidates yet confirmed. previousResult is drawn from the 2024 general election (John James defeated Carl Marlinga, 51.1%-45.0%, R+6.1). General-election calendar anchored on the Michigan SOS's official 2026 Election Dates PDF: registration deadline Oct. 19 (online/mail) with in-person registration open through Election Day, mandatory 9-day early voting Oct. 24-Nov. 1, absentee request deadlines Oct. 30 (online/mail) and Nov. 2 (in-person), Election Day Nov. 3 with 8pm absentee-return deadline. Key unresolved conflicts: (1) no MI-10-specific registered-voter count exists, only population estimates; (2) the June 26, 2026 Court of Appeals ruling on AV ballot stub handling could still be appealed to the Michigan Supreme Court before November. A proposed constitutional amendment to eliminate Michigan's no-ID voting affidavit was in Board of State Canvassers petition-review stage as of June 16, 2026 and does not apply to the 2026 cycle. All 26 sources verified as of July 9, 2026. All events and rules flagged needsReview pending confirmation, especially after the August 4, 2026 primary results are certified.",
+      "generatedAt": "2026-07-09T18:00:00Z"
+    }
+  }
+}

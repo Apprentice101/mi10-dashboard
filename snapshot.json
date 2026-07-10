@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-09",
-  "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-10T21:02:26.171Z",
+  "dataAsOf": "2026-07-10",
+  "updatedAt": "2026-07-10T21:43:36.288Z",
+  "exportedAt": "2026-07-10T21:46:48.376Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -208,7 +208,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Public Act 84 state-funded AV tracking system with opt-in email/text deficiency notifications."
       },
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -952,20 +952,30 @@
         "relevanceSummary": "Summarizes four pending federal/state court matters (DOJ voter-file suit, citizenship-documentation EO, SAVE database, AV stub case) and confirms none currently change 2026 voting procedures for MI-10 or any other Michigan district.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0qen1vz",
+        "headline": "Michigan's U.S. District 10 candidates for the Aug. 4 primary",
+        "sourceName": "MLive",
+        "url": "https://www.mlive.com/news/detroit/2026/07/michigans-us-district-10-candidates-for-the-aug-4-primary.html",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This article lists the candidates on the ballot for Michigan’s 10th Congressional District Aug. 4, 2026 primary and explains key voting procedures, including that early voting is already underway, registration deadlines by mail/online (July 20) and in person (through Election Day), and the date for in‑person voting, which directly affects MI-10 voters’ plans to participate.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-09-mi-10-initial-build",
-      "startedAt": "2026-07-09T18:00:00Z",
-      "completedAt": "2026-07-09T19:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 26,
-      "updatesCreated": 0,
+      "id": "run-2026-07-10-mi10-auto",
+      "startedAt": "2026-07-10T21:43:05.424Z",
+      "completedAt": "2026-07-10T21:43:36.288Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 6,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial WA-03-cloned build for MI-10, populated from primary-source research (Michigan Secretary of State/MVIC, Macomb County Clerk, Michigan Court of Appeals, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA. This is an open seat (Rep. John James running for Governor); the August 4, 2026 primary has not yet occurred as of this build, so previousResult is populated from the 2024 general election rather than any 2026 result, and the general-election-day event describes the field as pending the primary outcome."
+      "summary": "Automated refresh completed 2026-07-10 for MI-10. Sources checked: 6. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-17T21:43:36.288Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

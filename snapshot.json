@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-09",
   "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-09T23:19:40.280Z",
+  "exportedAt": "2026-07-10T21:02:26.171Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -428,7 +428,7 @@
           "src-macomb-candidate-list-pdf",
           "src-ballotpedia-four-republicans"
         ],
-        "confidence": "unconfirmed",
+        "confidence": "high",
         "lastVerified": "2026-07-09",
         "status": "estimated"
       },
@@ -600,7 +600,7 @@
           "src-mi-sos-election-dates-pdf",
           "src-macomb-candidate-list-pdf"
         ],
-        "confidence": "unconfirmed",
+        "confidence": "high",
         "lastVerified": "2026-07-09",
         "status": "estimated"
       },

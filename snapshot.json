@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-10",
-  "updatedAt": "2026-07-10T21:43:36.288Z",
-  "exportedAt": "2026-07-10T21:46:48.376Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:24:15.164Z",
+  "exportedAt": "2026-07-15T06:40:05.485Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -182,7 +182,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "AV application signature cure deadline (4pm Fri before Election Day, then in-person only) and return-envelope signature cure deadline (5pm the third day after the election)."
       },
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -962,20 +962,50 @@
         "relevanceSummary": "This article lists the candidates on the ballot for Michigan’s 10th Congressional District Aug. 4, 2026 primary and explains key voting procedures, including that early voting is already underway, registration deadlines by mail/online (July 20) and in person (through Election Day), and the date for in‑person voting, which directly affects MI-10 voters’ plans to participate.[1]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0na1vas",
+        "headline": "Michigan officials push back on DOJ plan to send federal election monitors to Detroit, East Lansing for Aug. 4 primary",
+        "sourceName": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/07/08/detroit-elections-trump-department-of-justice-federal-monitors-east-lansing/90841725007/",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "This article explains that the U.S. Department of Justice plans to send federal election monitors to Detroit and East Lansing for the Aug. 4 Michigan primary and details how state and local officials are responding to the DOJ’s claims about 2024 election issues, which could affect statewide election administration practices and voter confidence for MI-10 voters.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0kte2lh",
+        "headline": "Feds sending election monitors to Detroit, Lansing, East Lansing for August primaries",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-07-07/feds-sending-election-monitors-to-detroit-lansing-east-lansing-for-august-primaries",
+        "publishedAt": "2026-07-07",
+        "relevanceSummary": "The article reports that the U.S. Department of Justice will station federal election monitors in Detroit, Lansing, and East Lansing during Michigan’s August 4 primaries due to concerns about long lines and irregularities in prior elections, highlighting heightened scrutiny of election administration practices that are relevant to Michigan voters statewide, including those in MI-10.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0kxnaxa",
+        "headline": "Notice of Primary Election",
+        "sourceName": "City of Trenton (Michigan) – Civic Alerts",
+        "url": "https://www.trentonmi.org/CivicAlerts.aspx?AID=543",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "This official notice explains detailed primary election procedures for Trenton voters, including specific polling locations, availability of nine consecutive days of early in‑person voting from July 25 to August 2, and deadlines for obtaining absentee ballots by mail, illustrating how Michigan’s early voting and absentee rules are implemented at the municipal level.[5]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-10-mi10-auto",
-      "startedAt": "2026-07-10T21:43:05.424Z",
-      "completedAt": "2026-07-10T21:43:36.288Z",
+      "id": "run-2026-07-15-mi10-auto",
+      "startedAt": "2026-07-15T06:23:35.306Z",
+      "completedAt": "2026-07-15T06:24:15.164Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 1,
+      "sourcesChecked": 5,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-10 for MI-10. Sources checked: 6. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for MI-10. Sources checked: 5. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-17T21:43:36.288Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:24:15.164Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

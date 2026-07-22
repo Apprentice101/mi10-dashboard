@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:24:15.164Z",
-  "exportedAt": "2026-07-15T06:40:05.485Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:35:18.608Z",
+  "exportedAt": "2026-07-22T06:51:15.192Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -208,7 +208,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Public Act 84 state-funded AV tracking system with opt-in email/text deficiency notifications."
       },
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -995,17 +995,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-mi10-auto",
-      "startedAt": "2026-07-15T06:23:35.306Z",
-      "completedAt": "2026-07-15T06:24:15.164Z",
+      "id": "run-2026-07-22-mi10-auto",
+      "startedAt": "2026-07-22T06:34:49.151Z",
+      "completedAt": "2026-07-22T06:35:18.608Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
-      "updatesCreated": 3,
+      "sourcesChecked": 6,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for MI-10. Sources checked: 5. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for MI-10. Sources checked: 6. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:24:15.164Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:35:18.608Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

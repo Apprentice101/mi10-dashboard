@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:35:18.608Z",
-  "exportedAt": "2026-07-22T21:16:25.260Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:38:48.458Z",
+  "exportedAt": "2026-07-29T06:54:48.749Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -992,20 +992,90 @@
         "relevanceSummary": "This official notice explains detailed primary election procedures for Trenton voters, including specific polling locations, availability of nine consecutive days of early in‑person voting from July 25 to August 2, and deadlines for obtaining absentee ballots by mail, illustrating how Michigan’s early voting and absentee rules are implemented at the municipal level.[5]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0wl6ra0",
+        "headline": "Republican Lawmakers Make Another Push to Pass SAVE Act",
+        "sourceName": "WJR",
+        "url": "https://www.wjr.com/2026/07/24/republican-lawmakers-make-another-push-to-pass-save-act/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "The article reports renewed efforts in Congress to pass the SAVE Act, which would require government‑issued photo ID to vote and documentary proof of U.S. citizenship to register for federal elections.[1] If enacted, these federal rules would directly affect registration and voter‑ID requirements for MI‑10 residents in federal races, potentially tightening documentation standards beyond current Michigan practice.[1]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-09wtuqv",
+        "headline": "House passes stock trading ban for Congress members with bipartisan support that includes voter ID provision",
+        "sourceName": "WSBT",
+        "url": "https://wsbt.com/topic/Voter%20ID%20provision",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "WSBT’s coverage notes that the House’s stock‑trading ban bill for members of Congress includes a voter‑ID provision, indicating movement toward new national photo‑ID rules for federal elections.[9] Although procedural details are limited, MI‑10 voters are affected because any eventual federal voter‑ID standard would apply in Michigan’s federal contests.[9]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0bsc2pv",
+        "headline": "House Passes 232-198 Voter ID Bill Tied to Congressional Stock Trading Ban",
+        "sourceName": "Zetik News",
+        "url": "https://www.zetik.com/news/article/story_id-p008-170574",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "This article explains that the House approved a voter‑ID bill extending photo ID requirements to mail‑in ballots and pairing them with SAVE Act‑style proof‑of‑citizenship provisions for voter registration.[4] MI‑10 voters gain detail on how federal law could soon require ID copies for absentee ballots and stricter documentation to register, altering familiar mail‑in and registration procedures in Michigan.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0rmhlbz",
+        "headline": "Thirteen House Democrats Join Republicans to Pass Voter ID Legislation Amid SAVE Act Debate",
+        "sourceName": "Headtopics",
+        "url": "https://ng.headtopics.com/news/thirteen-house-democrats-join-republicans-to-pass-voter-id-85880609",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "This piece describes House passage of H.R. 7008, which combines voter‑ID requirements for federal elections with documentary proof‑of‑citizenship rules for voter registration as part of the broader SAVE America Act debate.[7] For MI‑10 voters, the article highlights potential future federal changes to registration, acceptable ID documents, and election procedures that would overlay Michigan’s existing system if the bill becomes law.[7]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0qb8xyd",
+        "headline": "Action Alert: Tell the Senate to Reject Strict Federal Voter ID Requirements",
+        "sourceName": "Voting Access For All Coalition (Michigan)",
+        "url": "https://votingaccessforall.org/2026/07/action-alert-tell-the-senate-to-reject-strict-federal-voter-id-requirements/",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "This Michigan-focused explainer details new federal photo ID requirements for voting that the U.S. House added to H.R. 7008, including limits on acceptable identification and provisional ballot rules, while clarifying that nothing has changed yet for Michigan voters and current state rules still apply.[2] MI‑10 voters get both a summary of possible future federal voter‑ID and mail‑ballot procedures and a clear reminder that they can currently vote in person without ID by signing an affidavit under Michigan law.[2]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0pe9n4l",
+        "headline": "U.S. House passes bill requiring photo ID for federal elections",
+        "sourceName": "ABC 6 News",
+        "url": "https://www.kaaltv.com/news/u-s-house-passes-bill-requiring-photo-id-for-federal-elections/",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "The U.S. House passed a bill that would require voters to present a physical photo ID for all federal elections and include a photocopy of their ID with mail-in absentee ballots, which would directly change in‑person and mail voting procedures for Michigan voters if it becomes law.[5] While it is not yet in effect and must still pass the Senate, MI‑10 voters should be aware of potential future changes to voter‑ID and mail‑ballot ID‑copy requirements.[5]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0sdyu9k",
+        "headline": "Voting Rights Groups: Flawed Documentary Proof of Citizenship Policy Would Prevent Eligible Michiganders from Casting a Ballot",
+        "sourceName": "ACLU of Michigan",
+        "url": "https://www.aclumich.org/press-releases/voting-rights-groups-flawed-documentary-proof-of-citizenship-policy-would-prevent-eligible-michiganders-from-casting-a-ballot/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "Michigan voting‑rights groups warn that proposed documentary proof‑of‑citizenship requirements for voter registration would block many eligible Michiganders from voting, because common IDs like state driver’s licenses would not suffice and documents such as certified birth certificates or passports would be required.[3] MI‑10 voters are directly implicated by these potential statewide registration and ballot‑access changes, which could alter how they qualify to vote in upcoming elections.[3]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-mi10-auto",
-      "startedAt": "2026-07-22T06:34:49.151Z",
-      "completedAt": "2026-07-22T06:35:18.608Z",
+      "id": "run-2026-07-29-mi10-auto",
+      "startedAt": "2026-07-29T06:38:14.140Z",
+      "completedAt": "2026-07-29T06:38:48.458Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 0,
+      "sourcesChecked": 5,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for MI-10. Sources checked: 6. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:35:18.608Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:38:48.458Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

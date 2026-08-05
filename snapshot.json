@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:38:48.458Z",
-  "exportedAt": "2026-07-29T06:54:48.749Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:32:34.078Z",
+  "exportedAt": "2026-08-05T06:48:41.920Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1062,20 +1062,50 @@
         "relevanceSummary": "Michigan voting‑rights groups warn that proposed documentary proof‑of‑citizenship requirements for voter registration would block many eligible Michiganders from voting, because common IDs like state driver’s licenses would not suffice and documents such as certified birth certificates or passports would be required.[3] MI‑10 voters are directly implicated by these potential statewide registration and ballot‑access changes, which could alter how they qualify to vote in upcoming elections.[3]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-06opqvs",
+        "headline": "Michigan's Amish community wants photo-less ID for elections",
+        "sourceName": "WKZO / WZUU",
+        "url": "https://wzuu.com/2026/08/04/michigans-amish-community-wants-photo-less-id-for-elections/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "This article reports that Michigan Amish residents are asking the state to create a photo‑less voter ID option while Republican lawmakers push to require photo identification to vote, highlighting potential statewide voter‑ID rule changes that would apply to MI‑10 voters.[10]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0qm578b",
+        "headline": "Attention on Michigan elections leaves some voters with questions about identification",
+        "sourceName": "CBS News Detroit (via YouTube segment description)",
+        "url": "https://www.youtube.com/watch?v=ygQJkfkicKY",
+        "publishedAt": "2026-07-29",
+        "relevanceSummary": "This segment explains what identification Michigan voters need for in‑person voting, clarifies that voters without ID can still cast a ballot by signing an affidavit, and discusses confusion around photo ID proposals and current rules, which directly affect MI‑10 voters in Macomb and Oakland counties.[4][10]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0b42luz",
+        "headline": "2026 Voter Guide",
+        "sourceName": "WDET",
+        "url": "https://wdet.org/2026voterguide/",
+        "publishedAt": "2026-07-25",
+        "relevanceSummary": "WDET’s 2026 Voter Guide provides Michigan voters with practical information on registration, absentee and mail‑in ballot procedures, key deadlines, and how to find polling locations, serving as a statewide voter resource for MI‑10 residents.[6]",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-mi10-auto",
-      "startedAt": "2026-07-29T06:38:14.140Z",
-      "completedAt": "2026-07-29T06:38:48.458Z",
+      "id": "run-2026-08-05-mi10-auto",
+      "startedAt": "2026-08-05T06:32:03.828Z",
+      "completedAt": "2026-08-05T06:32:34.078Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
-      "updatesCreated": 7,
+      "sourcesChecked": 6,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for MI-10. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:38:48.458Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:32:34.078Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

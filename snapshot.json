@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:32:34.078Z",
-  "exportedAt": "2026-08-05T06:48:41.920Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:34:22.125Z",
+  "exportedAt": "2026-08-12T05:48:03.271Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1092,20 +1092,90 @@
         "relevanceSummary": "WDET’s 2026 Voter Guide provides Michigan voters with practical information on registration, absentee and mail‑in ballot procedures, key deadlines, and how to find polling locations, serving as a statewide voter resource for MI‑10 residents.[6]",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-071pud0",
+        "headline": "Michigan Voter Guide",
+        "sourceName": "WXYZ",
+        "url": "https://www.wxyz.com/michiganvoterguide",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "This voter guide summarizes Michigan procedures that apply to MI-10, including absentee-ballot request deadlines, polling hours, and the rule that voters without ID can still vote by signing an affidavit. It is directly useful for registration, absentee voting, and in-person voter-ID questions.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0jcuyem",
+        "headline": "Christina Hines wins Democratic nomination for U.S. House in Michigan's 10th Congressional District",
+        "sourceName": "KHQ",
+        "url": "https://www.khq.com/national/christina-hines-wins-democratic-nomination-for-u-s-house-in-michigans-10th-congressional-district/article_8ed42b1d-6090-50de-8745-486fd8aff460.html",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This article reports Christina Hines won the Democratic nomination in MI-10. It matters to voters in the district because it identifies one of the two general-election candidates.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0dt10kv",
+        "headline": "Michigan House District 10 Primary Results 2026",
+        "sourceName": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-primary-elections/michigan-us-house-district-10-results",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "NBC’s results page shows the MI-10 primary winners, Michael Bouchard and Christina Hines. This is relevant to district voters because it confirms who advanced to the general election.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0ze4x2i",
+        "headline": "Michigan's 2026 primary just changed the game for both parties",
+        "sourceName": "Rolling Out",
+        "url": "https://rollingout.com/2026/08/05/michigan-2026-primary-both-parties/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "The piece notes that Mike Bouchard won the GOP primary in District 10 and Christina Hines won the Democratic primary in the district covering southern Macomb County and part of Oakland County. That makes it relevant to the MI-10 November ballot and the district’s electorate.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0eej8mh",
+        "headline": "Michigan congressional primary results: races to watch as votes are tallied",
+        "sourceName": "Bridge Michigan",
+        "url": "https://bridgemi.com/michigan-government/michigan-congressional-primary-results-races-to-watch-as-votes-are-tallied/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "Bridge reports that Michael Bouchard won the Republican primary in MI-10 and Christina Hines won the Democratic primary. This matters to district voters because it identifies the certified primary winners headed to the November ballot.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0h2fuzs",
+        "headline": "Election Day 2026: Congressional primaries give way to general election challenges",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/08/05/election-day-2026-congressional-primaries-give-way-to-general-election-challenges/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "The article says MI-10’s November race will feature Republican nominee Michael Bouchard Jr. and Democratic nominee Christina Hines after the primary. That is directly relevant to ballot qualification and the general-election contest for district voters.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0xeahpf",
+        "headline": "Hines wins Dem nomination in 10th District, will face Bouchard",
+        "sourceName": "Macomb Daily",
+        "url": "https://www.macombdaily.com/2026/08/05/hines-wins-dem-nomination-in-10th-district-will-face-bouchard/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This confirms the November general-election matchup in MI-10, where Christina Hines will face Republican Michael Bouchard. For voters, that establishes the ballot contest after the primary and is directly relevant to candidate qualification for the general election.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-mi10-auto",
-      "startedAt": "2026-08-05T06:32:03.828Z",
-      "completedAt": "2026-08-05T06:32:34.078Z",
+      "id": "run-2026-08-12-mi10-auto",
+      "startedAt": "2026-08-12T05:33:56.513Z",
+      "completedAt": "2026-08-12T05:34:22.125Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 3,
+      "sourcesChecked": 5,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for MI-10. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:32:34.078Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:34:22.125Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

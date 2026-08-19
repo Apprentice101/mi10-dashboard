@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:34:22.125Z",
-  "exportedAt": "2026-08-12T05:48:03.271Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:47:57.803Z",
+  "exportedAt": "2026-08-19T05:08:09.197Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -208,7 +208,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Public Act 84 state-funded AV tracking system with opt-in email/text deficiency notifications."
       },
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1162,20 +1162,40 @@
         "relevanceSummary": "This confirms the November general-election matchup in MI-10, where Christina Hines will face Republican Michael Bouchard. For voters, that establishes the ballot contest after the primary and is directly relevant to candidate qualification for the general election.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0b0cj36",
+        "headline": "Election Day Basics: What to know before you go to the polls",
+        "sourceName": "Macomb Daily",
+        "url": "https://www.macombdaily.com/2026/08/03/election-day-basics-what-to-know-before-you-go-to-the-polls/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This Macomb County guide explains core voting procedures for the August 4 primary, including polling hours (7 a.m.–8 p.m.), same‑day registration at the clerk’s office, acceptable proof of residency documents, absentee‑ballot return deadlines, and rules on campaigning near polling places, all of which apply directly to MI‑10 voters in Macomb and Oakland counties.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0q8kuph",
+        "headline": "Michigan voters enter final weekend of statewide early in-person voting for August primary",
+        "sourceName": "Michigan Secretary of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/07/31/michigan-voters-enter-final-weekend-of-statewide-early-in-person-voting-for-august-primary",
+        "publishedAt": "2026-07-31",
+        "relevanceSummary": "This statewide notice details Michigan’s constitutionally mandated early in‑person voting period, advises voters to return absentee ballots via clerk’s office, secure drop box, or at early‑voting sites, and warns that ballots must be received by 8 p.m. on Election Day, providing crucial mail‑ballot and drop‑box guidance for all MI‑10 voters.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-mi10-auto",
-      "startedAt": "2026-08-12T05:33:56.513Z",
-      "completedAt": "2026-08-12T05:34:22.125Z",
+      "id": "run-2026-08-19-mi10-auto",
+      "startedAt": "2026-08-19T04:46:58.805Z",
+      "completedAt": "2026-08-19T04:47:57.803Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
-      "updatesCreated": 7,
+      "sourcesChecked": 6,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for MI-10. Sources checked: 6. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:34:22.125Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:47:57.803Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

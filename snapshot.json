@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:47:57.803Z",
-  "exportedAt": "2026-08-19T05:08:09.197Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:52:47.519Z",
+  "exportedAt": "2026-08-26T05:16:06.496Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1182,20 +1182,100 @@
         "relevanceSummary": "This statewide notice details Michigan’s constitutionally mandated early in‑person voting period, advises voters to return absentee ballots via clerk’s office, secure drop box, or at early‑voting sites, and warns that ballots must be received by 8 p.m. on Election Day, providing crucial mail‑ballot and drop‑box guidance for all MI‑10 voters.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0ozfs6b",
+        "headline": "‘Money Out of Politics’ proposal headed to Michigan's November ballot",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/08/25/michigan-money-out-of-politics-measure-headed-to-nov-vote/91459319007/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "The article reports that the Michiganders for Money Out of Politics initiative qualified for the November ballot, meaning MI-10 voters will decide on new constitutional rules limiting certain corporate and contractor political spending, which could change the broader campaign‑finance environment for candidates on their ballots.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0i52oej",
+        "headline": "Michigan voter ID question narrowly misses ballot, lawsuit likely",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-08-24/michigan-voter-id-question-narrowly-misses-ballot-lawsuit-likely",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "The Michigan Board of State Canvassers refused to certify a proposed constitutional amendment on voter ID for the November ballot, meaning no immediate change to current voter ID rules, though a lawsuit could still alter how Michigan—and thus MI-10—voters must identify themselves in future elections.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0eu0s5z",
+        "headline": "Michigan Sheriff Receives Whistleblower Allegation: State Software Automatically Registering Noncitizens to Vote",
+        "sourceName": "Michigan News Source",
+        "url": "https://www.michigannewssource.com/2026/08/michigan-sheriff-receives-whistleblower-allegation-state-software-automatically-registering-noncitizens-to-vote/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This story covers an allegation that state voter‑registration software might be adding non‑citizens, and local officials’ response that clerks only access the Qualified Voter File after a person is registered, highlighting how Michigan manages voter registration integrity and database access relevant to MI-10 election administration confidence.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0co7csp",
+        "headline": "LISTEN: Michigan’s race for governor takes shape as voter ID proposal hits a hurdle",
+        "sourceName": "WKAR",
+        "url": "https://www.wkar.org/election-2026/2026-08-21/listen-michigans-race-for-governor-takes-shape-as-voter-id-proposal-hits-a-hurdle",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This piece explains that a proposed statewide voter ID initiative submitted over 700,000 signatures but did not meet the valid-signature threshold in a Bureau of Elections sample review, clarifying for MI-10 voters that stricter ID rules will not automatically appear on the 2026 ballot unless legal challenges succeed.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0bocqzw",
+        "headline": "6 key dates to know in Michigan’s 2026 midterm elections",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/key-dates-2026-midterm-elections/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This piece outlines critical statewide deadlines—such as when MI-10 voters must switch to in‑person registration with proof of residency, the last day to request an absentee ballot online or by mail, and by when absentee ballots must be received—giving a calendar of actionable election‑procedure dates for November.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0y6gr4d",
+        "headline": "Michigan's election: Here's how your ballot stays secure",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/michigan-election-security/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "The article details Michigan’s election administration practices, including ID requirements for online and mail registration, double signature checks for absentee ballots, and state‑funded secure drop boxes with video monitoring, all of which directly govern how MI-10 voters’ registrations and ballots are handled in 2026.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-04xpaw9",
+        "headline": "Everything you need to know about voting in Michigan",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/the-first-timers-guide-to-voting-in-michigan/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This statewide explainer lays out how Michigan voters, including those in MI-10, can register, request and return absentee ballots, use drop boxes starting 40 days before the election, and what to do if they lack photo ID at the polls, giving practical step‑by‑step voting and mail‑ballot procedures for November.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0poa2ms",
+        "headline": "Bureau of Elections Finds ACVM Petition Short of Required Signatures, Final Review Set for August 24",
+        "sourceName": "Voting Access For All Coalition",
+        "url": "https://votingaccessforall.org/2026/08/bureau-of-elections-finds-acvm-petition-short-of-required-signatures-final-review-set-for-august-24/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Michigan’s Bureau of Elections recommended that the Americans for Citizen Voting-Michigan constitutional amendment petition be found insufficient because it failed to meet the valid-signature requirement, signaling to MI-10 voters that this proposed change to election and voter eligibility rules is unlikely to appear on the November ballot unless the Board of State Canvassers or courts intervene.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-mi10-auto",
-      "startedAt": "2026-08-19T04:46:58.805Z",
-      "completedAt": "2026-08-19T04:47:57.803Z",
+      "id": "run-2026-08-26-mi10-auto",
+      "startedAt": "2026-08-26T04:52:00.433Z",
+      "completedAt": "2026-08-26T04:52:47.519Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 2,
+      "sourcesChecked": 5,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for MI-10. Sources checked: 6. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:47:57.803Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:52:47.519Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

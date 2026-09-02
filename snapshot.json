@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:52:47.519Z",
-  "exportedAt": "2026-08-26T05:16:06.496Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:39:57.753Z",
+  "exportedAt": "2026-09-02T09:09:49.414Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -182,7 +182,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "AV application signature cure deadline (4pm Fri before Election Day, then in-person only) and return-envelope signature cure deadline (5pm the third day after the election)."
       },
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1262,20 +1262,100 @@
         "relevanceSummary": "Michigan’s Bureau of Elections recommended that the Americans for Citizen Voting-Michigan constitutional amendment petition be found insufficient because it failed to meet the valid-signature requirement, signaling to MI-10 voters that this proposed change to election and voter eligibility rules is unlikely to appear on the November ballot unless the Board of State Canvassers or courts intervene.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0radw79",
+        "headline": "Michigan citizenship group asks U.S. Supreme Court to rescue ballot bid",
+        "sourceName": "Detroit News",
+        "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/31/michigan-citizenship-group-asks-u-s-supreme-court-to-rescue-ballot-bid/91555028007/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "The article says the citizenship group needs Supreme Court action by September 3 because Michigan’s ballot must be settled before absentee ballots go out. That timing is important for MI-10 voters since it could affect what appears on the November ballot and any associated voting-rule changes.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0qnz4a2",
+        "headline": "Michigan must respond to citizenship voting proposal kept off ballot",
+        "sourceName": "MLive",
+        "url": "https://www.mlive.com/politics/2026/09/us-supreme-court-michigan-must-respond-to-citizenship-voting-proposal-kept-off-ballot.html",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "MLive reports that the U.S. Supreme Court has asked Michigan election officials to respond by September 2 in a dispute over a citizenship-verification amendment. This is relevant to MI-10 because the proposal could change voter-ID and ballot-cure rules statewide before the November general election.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0w5aihm",
+        "headline": "Michigan Initiative Requiring Proof of Citizenship to Vote is Denied a Place on the November 2026 Ballot",
+        "sourceName": "Ballot Access News",
+        "url": "https://ballot-access.org/2026/08/28/michigan-initiative-requiring-proof-of-citizenship-to-vote-is-denied-a-place-on-the-november-2026-ballot/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "The Michigan Board of State Canvassers denied ballot access to a proposed constitutional amendment that would require proof of citizenship to vote. MI-10 voters should care because the proposal would have changed statewide voter-identification and eligibility rules.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0mtfih8",
+        "headline": "Judge reinstates pause on Trump order limiting mail ballots",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/08/28/repub/judge-reinstates-pause-on-trump-order-limiting-mail-ballots",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "The article reports that a federal judge again paused a rule limiting mail voting and that the rule would have imposed new envelope requirements and data-sharing obligations on states. Michigan voters, including those in MI-10 who use absentee ballots, could see these rules affect how mail voting is administered.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0oey9qa",
+        "headline": "A legal fight is brewing over mail-in ballots and Michigan is getting involved",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-08-27/a-legal-fight-is-brewing-over-mail-in-ballots-and-michigan-is-getting-involved",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Michigan joined a legal fight over new federal mail-ballot restrictions, and the story says a federal judge issued a stay that halted implementation for now. That is directly relevant to MI-10 voters because it affects how Michigan absentee ballots may be handled this election cycle.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-02743rl",
+        "headline": "Court Grants Emergency Stay for Unlawful USPS Mail Ballot Rule",
+        "sourceName": "Michigan Attorney General",
+        "url": "https://www.michigan.gov/ag/news/press-releases/2026/08/27/court-grants-emergency-stay-for-unlawful-usps-mail-ballot-rule",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "Michigan’s attorney general says a federal court temporarily blocked most of a new USPS mail-ballot rule, preserving the current system for now. This matters to MI-10 absentee voters because it affects ballot delivery and return procedures in Michigan.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-06qyxam",
+        "headline": "Michigan Sues United States Postal Service Over Unlawful Vote-by-Mail Procedures",
+        "sourceName": "Michigan Attorney General",
+        "url": "https://www.michigan.gov/ag/news/press-releases/2026/08/26/michigan-sues-united-states-postal-service-over-unlawful-vote-by-mail-procedures",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "The state says absentee ballots are scheduled to be mailed to Michigan voters beginning September 19, and that the new USPS rule would disrupt Michigan’s mail-voting program. MI-10 voters who vote absentee need this because it concerns ballot mailing and delivery timelines statewide.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-02zi4gq",
+        "headline": "Group asks court to put voter proof of citizenship question on ballot",
+        "sourceName": "Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/08/27/group-asks-court-to-put-voter-proof-of-citizenship-question-on-ballot/91497231007/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This statewide Michigan ballot-access fight matters to MI-10 voters because it could change voting rules for the November general election, including proof-of-citizenship requirements and the elimination of the affidavit fallback for voters without photo ID. The proposal would directly affect in-person and absentee voting procedures if it advances.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-mi10-auto",
-      "startedAt": "2026-08-26T04:52:00.433Z",
-      "completedAt": "2026-08-26T04:52:47.519Z",
+      "id": "run-2026-09-02-mi10-auto",
+      "startedAt": "2026-09-02T08:39:05.991Z",
+      "completedAt": "2026-09-02T08:39:57.753Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for MI-10. Sources checked: 5. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:52:47.519Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:39:57.753Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

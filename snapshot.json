@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:39:57.753Z",
-  "exportedAt": "2026-09-02T09:09:49.414Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:53:50.687Z",
+  "exportedAt": "2026-09-09T09:20:09.564Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -182,7 +182,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "AV application signature cure deadline (4pm Fri before Election Day, then in-person only) and return-envelope signature cure deadline (5pm the third day after the election)."
       },
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1342,20 +1342,80 @@
         "relevanceSummary": "This statewide Michigan ballot-access fight matters to MI-10 voters because it could change voting rules for the November general election, including proof-of-citizenship requirements and the elimination of the affidavit fallback for voters without photo ID. The proposal would directly affect in-person and absentee voting procedures if it advances.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0aqb87h",
+        "headline": "Rewind the news, week of September 9, 2026 – Lansing Community College voter registration and voting information drive",
+        "sourceName": "Lansing City Pulse",
+        "url": "https://lansingcitypulse.com/rewind-the-news-week-of-september-9-2026/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Notes that Lansing Community College will host a voter registration and voting information drive September 14–17, offering absentee ballot applications, information about voting at home and early, and pointing city voters to an election drop box near campus.[4] While focused on Lansing, this reflects broader Michigan practices on registration, absentee ballot applications, and drop-box use that MI-10 voters can follow through their own local clerks.[4][2]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-088tutu",
+        "headline": "Michigan among states mailing ballots this month as litigation over Trump order creates uncertainty",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/2026-09-04/michigan-among-states-mailing-ballots-this-month-as-litigation-over-trump-order-creates-uncertainty",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Reports that Michigan will begin mailing absentee ballots around September 19 while ongoing litigation over a Trump-related order creates uncertainty about mail ballot handling.[14] MI-10 voters benefit from knowing when absentee ballots are mailed and that court challenges could affect mail ballot procedures, prompting attention to deadlines and return options.[14][2][7]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0do9ymw",
+        "headline": "Court Grants Preliminary Injunction Blocking Unlawful USPS Mail Ballot Rule",
+        "sourceName": "Michigan Attorney General (official press release)",
+        "url": "https://www.michigan.gov/ag/news/press-releases/2026/09/04/court-grants-preliminary-injunction-blocking-unlawful-usps-mail-ballot-rule",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Announces that a court has granted a preliminary injunction blocking a USPS mail ballot rule that could have affected how absentee ballots are processed and delivered in Michigan, with the AG noting that absentee ballots are scheduled to go out beginning September 19.[7][14] This legal action directly impacts MI-10 voters’ ability to rely on mail delivery for absentee ballots and helps preserve existing mail voting procedures statewide.[7]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-054idx2",
+        "headline": "You Can Still Vote by Mail in Michigan: What’s Happening With the USPS Rule Now",
+        "sourceName": "Voting Access For All",
+        "url": "https://votingaccessforall.org/2026/09/you-can-still-vote-by-mail-in-michigan-whats-happening-with-the-usps-rule-now/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Explains that Michigan voters, including those in MI-10, can still vote absentee by mail, use secure drop boxes, return ballots directly to their clerk, vote early in person from October 24–November 1, or vote at polling places on Election Day, and notes that absentee ballots will begin being available on September 24 and that voters can register through Election Day.[2] This statewide clarification is important for MI-10 voters amid uncertainty over USPS rules affecting mail ballot delivery.[2][7][14]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0j18424",
+        "headline": "Michigan voter ID, proof of citizenship amendment loses at state, U.S. Supreme Court",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-09-03/michigan-proof-of-citizenship-voting-amendment-loses-at-state-u-s-supreme-court",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Covers the defeat of a proposed Michigan constitutional amendment that would have required voters to show photo ID at the polls or within six days after an election to have their ballot counted, along with proof of citizenship requirements.[15] For MI-10 voters, this means existing voter ID and registration rules remain in place for the November general, avoiding new ID or proof-of-citizenship barriers.[15]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0wk5lzv",
+        "headline": "Ex-lawmaker Pam Hornberger to replace Jay DeBoyer on November ballot",
+        "sourceName": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/local/macomb-county/2026/09/02/michigan-house-republican-candidate-macomb-st-clair-county-jay-deboyer/91559938007/",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "Explains that after a vacancy on the November ballot in a Michigan House race covering parts of Macomb and St. Clair counties, county GOP executive committee members residing in the district voted to select Pam Hornberger as the replacement candidate, pursuant to state law governing post-primary candidate substitutions.[6] This illustrates ballot-access and candidate-replacement procedures that are relevant precedent for MI-10 voters in the event of similar vacancies in their own races.[6]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-mi10-auto",
-      "startedAt": "2026-09-02T08:39:05.991Z",
-      "completedAt": "2026-09-02T08:39:57.753Z",
+      "id": "run-2026-09-09-mi10-auto",
+      "startedAt": "2026-09-09T08:52:58.294Z",
+      "completedAt": "2026-09-09T08:53:50.687Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
-      "updatesCreated": 8,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for MI-10. Sources checked: 5. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for MI-10. Sources checked: 5. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:39:57.753Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:53:50.687Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

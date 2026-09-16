@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:53:50.687Z",
-  "exportedAt": "2026-09-09T09:20:09.564Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:21:11.805Z",
+  "exportedAt": "2026-09-16T09:51:50.669Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1402,20 +1402,90 @@
         "relevanceSummary": "Explains that after a vacancy on the November ballot in a Michigan House race covering parts of Macomb and St. Clair counties, county GOP executive committee members residing in the district voted to select Pam Hornberger as the replacement candidate, pursuant to state law governing post-primary candidate substitutions.[6] This illustrates ballot-access and candidate-replacement procedures that are relevant precedent for MI-10 voters in the event of similar vacancies in their own races.[6]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0kdgm88",
+        "headline": "Ballots being printed, prepared to mail out in Genesee County after Supreme Court ruling",
+        "sourceName": "WNEM",
+        "url": "https://www.wnem.com/2026/09/15/ballots-being-printed-prepared-mail-out-genesee-county-after-supreme-court-ruling/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "WNEM reports that Genesee County election officials are printing and preparing ballots after a Supreme Court ruling, reflecting how Michigan counties are operationalizing the state’s absentee-ballot process. While not specific to MI-10, county election administration developments like this can affect statewide expectations for ballot distribution and voter access.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0metq6q",
+        "headline": "National Voter Registration Day: How you can register to vote in Michigan",
+        "sourceName": "WXYZ",
+        "url": "https://www.wxyz.com/news/national-voter-registration-day-how-you-can-register-to-vote-in-michigan",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "WXYZ explains Michigan’s voter-registration options and deadlines, including online/mail registration up to 15 days before the election and in-person registration at a clerk’s office afterward. That matters directly to MI-10 voters because Michigan rules apply statewide and determine how residents in Macomb and Oakland counties can still register for November.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0qqz8uj",
+        "headline": "Court order leaves Michigan ballot rules for 2026. What's happening",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETMI91768840007?channel=qru766",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Reuters reports that Michigan’s ballot rules for 2026 remain in place after a court order, and that ballots become available on Sept. 24. For MI-10 voters, this affects absentee voting timelines, drop-box return rules, and when ballots must be received to count.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-094o8dd",
+        "headline": "Michigan Officials on Supreme Court USPS Mail Ballot Rule Decision",
+        "sourceName": "Michigan Attorney General's Office",
+        "url": "https://www.forth.news/lists/mioag/Cf4FkzeRAccdRjCvv4331",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This Michigan Attorney General’s Office item indicates officials are responding to a Supreme Court decision affecting mailed ballots. For MI-10 voters, the issue matters because it may affect absentee-ballot handling and return procedures under Michigan law.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0spcdz4",
+        "headline": "Decision 2026: Important dates to know for the midterm elections",
+        "sourceName": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/09/14/decision-2026-important-dates-to-know-for-the-midterm-elections/",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "ClickOnDetroit says absentee ballots will be available starting Sept. 24 and that online or mail registration ends Oct. 19. MI-10 voters need these statewide deadlines to plan absentee voting, registration, and ballot-return timing.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0xkacbr",
+        "headline": "Can I vote by mail? What do know as Supreme Court weighs Trump's limits",
+        "sourceName": "NewsNation",
+        "url": "https://newsnationnow.com/politics/2026-midterm-elections/mail-voting-supreme-limits/",
+        "publishedAt": "2026-09-13",
+        "relevanceSummary": "NewsNation summarizes Michigan’s absentee-voting rules, including that all registered voters may vote by mail and that ballots generally must be received by 8 p.m. on Election Day. That is directly relevant to MI-10 voters because it governs how absentee ballots are returned and counted statewide.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0xpemkp",
+        "headline": "How to vote in Michigan’s 2026 November election",
+        "sourceName": "Watershed Voice",
+        "url": "https://watershedvoice.com/2026/09/10/how-to-vote-in-michigans-2026-november-election/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Watershed Voice lays out Michigan’s 2026 voting process, including absentee ballot availability on Sept. 24, registration deadlines, and ballot-return timing. MI-10 voters can use this statewide procedural guidance for absentee voting and same-day registration planning.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-mi10-auto",
-      "startedAt": "2026-09-09T08:52:58.294Z",
-      "completedAt": "2026-09-09T08:53:50.687Z",
+      "id": "run-2026-09-16-mi10-auto",
+      "startedAt": "2026-09-16T09:20:28.069Z",
+      "completedAt": "2026-09-16T09:21:11.805Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
-      "updatesCreated": 6,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for MI-10. Sources checked: 5. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:53:50.687Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:21:11.805Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

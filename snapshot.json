@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:21:11.805Z",
-  "exportedAt": "2026-09-16T09:51:50.669Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:16:06.644Z",
+  "exportedAt": "2026-09-23T09:38:00.222Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1472,20 +1472,90 @@
         "relevanceSummary": "Watershed Voice lays out Michigan’s 2026 voting process, including absentee ballot availability on Sept. 24, registration deadlines, and ballot-return timing. MI-10 voters can use this statewide procedural guidance for absentee voting and same-day registration planning.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0vlpd8z",
+        "headline": "Michigan voting season about to begin for November election",
+        "sourceName": "CBS News Detroit",
+        "url": "https://www.cbsnews.com/detroit/video/michigan-voting-season-about-to-begin-for-november-election/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The report notes that Michigan will begin sending absentee ballots to registered voters who requested them on September 24, a statewide procedure relevant to voters in MI-10.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-01ylrid",
+        "headline": "State House Committee hears testimony over concerns about ballot initiative process",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-09-21/state-house-committee-hears-testimony-over-concerns-about-ballot-initiative-process",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The committee testimony concerns Michigan’s ballot-initiative process and the more than 440,000 valid signatures required for an initiative to reach the ballot, making it relevant to statewide ballot access.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0pd7xl0",
+        "headline": "How to register to vote in Michigan ahead of the midterm elections",
+        "sourceName": "WDIV ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/09/21/how-to-register-to-vote-in-michigan-ahead-of-the-midterm-elections/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "This Michigan voter guide states that registration remains available through Election Day, but registration within 14 days of the election must occur at a city or township clerk’s office with proof of residency.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-01q1azq",
+        "headline": "Voting in Michigan: What to know ahead of November ...",
+        "sourceName": "FOX 2 Detroit",
+        "url": "https://www.fox2detroit.com/news/election-2026-michigan-absentee-ballots-register-vote",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "This statewide guide applies directly to MI-10 voters and explains registration options, acceptable proof of residency, photo-ID rules, and the September 24 start of absentee-ballot distribution for the November election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0o4h3pw",
+        "headline": "Michigan Absentee and Early Voting Dates for 2026 November ...",
+        "sourceName": "Arab American News",
+        "url": "https://arabamericannews.com/2026/09/18/michigan-absentee-voting-starts-september-24-as-november-election-countdown-begins/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The statewide article reports that Michigan’s permanent mail-ballot-list voters begin receiving absentee ballots September 24 and that other voters may request ballots online, by mail, or from their local clerk.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0eotjdp",
+        "headline": "‘Facts first, conclusions second': House committee begins review of ballot measure procedures",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/09/16/facts-first-conclusions-second-house-committee-begins-review-of-ballot-measure-procedures/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "A Michigan House select committee began reviewing Board of State Canvassers and Bureau of Elections procedures for verifying signatures on ballot initiatives, a statewide ballot-access and election-administration development.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-01rqe4e",
+        "headline": "Plan to vote in election? How to get registered before November",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/09/16/michigan-voter-registration-guide/91789498007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The article explains Michigan registration deadlines and methods, including the requirement to register in person with proof of residency during the 14 days before an election—rules applicable to MI-10 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-mi10-auto",
-      "startedAt": "2026-09-16T09:20:28.069Z",
-      "completedAt": "2026-09-16T09:21:11.805Z",
+      "id": "run-2026-09-23-mi10-auto",
+      "startedAt": "2026-09-23T09:15:24.552Z",
+      "completedAt": "2026-09-23T09:16:06.644Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
+      "sourcesChecked": 6,
       "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for MI-10. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:21:11.805Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:16:06.644Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

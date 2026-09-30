@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:16:06.644Z",
-  "exportedAt": "2026-09-23T09:38:00.222Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:20:40.686Z",
+  "exportedAt": "2026-09-30T10:37:57.856Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1542,20 +1542,100 @@
         "relevanceSummary": "The article explains Michigan registration deadlines and methods, including the requirement to register in person with proof of residency during the 14 days before an election—rules applicable to MI-10 voters.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0z721bx",
+        "headline": "2026 Battleground Report: How Voting Rules Have Changed Since the 2022 Midterms",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/report/2026-battleground-report-how-voting-rules-have-changed-since-the-2022-midterms/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The Michigan portion describes statewide rules relevant to MI-10 voters, including the ability to sign up for recurring mail ballots and the requirement that municipalities provide secure absentee-ballot drop boxes.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0rrucr1",
+        "headline": "What to know about voting absentee in Michigan's 2026 midterm election",
+        "sourceName": "CBS Detroit",
+        "url": "https://www.cbsnews.com/detroit/news/michigan-absentee-ballots-2026-midterm-election/?intcid=CNR-02-0623",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Michigan absentee-ballot deadlines and return options apply to MI-10 voters: online requests are due by Oct. 30, in-person requests by Nov. 2, and completed ballots must reach the clerk by 8 p.m. on Nov. 3.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0afx1ji",
+        "headline": "Absentee ballots go out in Michigan: What to know",
+        "sourceName": "Iron Mountain Daily News",
+        "url": "https://www.ironmountaindailynews.com/news/local-news/2026/09/absentee-ballots-go-out-in-michigan-what-to-know/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The statewide guidance covers absentee-ballot applications, Michigan identification information requested on applications, mailing timelines, and returning ballots to the issuing clerk or a local drop box. These procedures apply to MI-10 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0hadljp",
+        "headline": "It’s almost Election Day in Michigan. Here’s how to vote.",
+        "sourceName": "Votebeat Michigan",
+        "url": "https://www.votebeat.org/michigan/2026/09/28/how-to-vote-general-election-2026-early-absentee-ballot-id/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The statewide voting guide applies directly to MI-10 voters: any voter may vote by mail without an excuse, absentee ballots must arrive by 8 p.m. on Election Day, and voters should use the drop box designated for the city or township that issued the ballot.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0cpoj9b",
+        "headline": "Michigan absentee ballots are going out. How to get yours, track it",
+        "sourceName": "Lansing State Journal",
+        "url": "https://www.lansingstatejournal.com/story/news/politics/elections/2026/09/28/michigan-absentee-ballot-request-fill-out-return-track/91984324007/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Michigan voters, including those in MI-10, can request absentee ballots from their local clerk, return them by mail or to their jurisdiction’s secure drop box, and must ensure they are received by 8 p.m. on Election Day. The article also explains same-day registration and absentee-ballot access through a local clerk.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0hnf1nd",
+        "headline": "Michigan absentee voting guide: Here's what to know",
+        "sourceName": "WLNS",
+        "url": "https://www.wlns.com/your-local-election-hq/voting-by-mail-2026/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The statewide guide explains how to apply for an absentee ballot, sign and date the return envelope, use the signature on file, and return the ballot by 8 p.m. on Election Day using the issuing jurisdiction’s drop box or clerk’s office.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0z77t4g",
+        "headline": "Your Guide To The 2026 Michigan Midterm Elections: Dates, Races And How To Vote",
+        "sourceName": "Patch Michigan",
+        "url": "https://patch.com/michigan/across-mi/amp/34900446/your-guide-to-the-2026-michigan-midterm-elections-dates-races-and-how-to-vote",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The statewide election guide explains that registered Michigan voters may request a ballot through Michigan.gov/vote and return it by mail or drop box without an excuse. Mail ballots must be received by 8 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-04qlpn0",
+        "headline": "Absentee ballots are available in Michigan for the November election",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/09/25/michigan-absentee-ballot-application-request-november-election-deadline/91934863007/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Michigan voters may request November absentee ballots online, by mail, or through their local clerk. Ballots can be mailed, hand-delivered, or returned to a secure drop box, with local drop-box locations available through Michigan.gov/vote.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-mi10-auto",
-      "startedAt": "2026-09-23T09:15:24.552Z",
-      "completedAt": "2026-09-23T09:16:06.644Z",
+      "id": "run-2026-09-30-mi10-auto",
+      "startedAt": "2026-09-30T10:20:06.432Z",
+      "completedAt": "2026-09-30T10:20:40.686Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 7,
+      "sourcesChecked": 5,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for MI-10. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:16:06.644Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:20:40.686Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

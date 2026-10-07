@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:20:40.686Z",
-  "exportedAt": "2026-09-30T10:37:57.856Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:56:27.586Z",
+  "exportedAt": "2026-10-07T11:13:22.322Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1622,20 +1622,100 @@
         "relevanceSummary": "Michigan voters may request November absentee ballots online, by mail, or through their local clerk. Ballots can be mailed, hand-delivered, or returned to a secure drop box, with local drop-box locations available through Michigan.gov/vote.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0s7sam2",
+        "headline": "Every Freep endorsement in Michigan election: Governor, SOS, AG, U.S. Senate, House, state Legislature, proposals",
+        "sourceName": "Detroit Free Press",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETMI92102815007?channel=qru766",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article notes that Michigan clerks mailed absentee ballots beginning September 24, statewide early voting runs October 24 through November 1, and voters should check local clerks for early-voting sites and absentee drop boxes.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0mnyliq",
+        "headline": "How early voting is evolving in Michigan and beyond",
+        "sourceName": "FOX 2 Detroit",
+        "url": "https://www.fox2detroit.com/news/michigan-early-voting-midterm-november-election",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article outlines Michigan’s key voting dates: October 19 is the final day to register online or by mail, October 24 through November 1 is the early-voting period, and November 3 is Election Day. It also explains mail-ballot return options, including drop boxes and local clerks.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0jh05i4",
+        "headline": "Michigan early voting underway in midterm election. What to know ahead of Election Day.",
+        "sourceName": "CBS Detroit",
+        "url": "https://www.cbsnews.com/detroit/news/michigan-early-voting-2026-midterm-election/?intcid=CNR-01-0623",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article provides Southeast Michigan absentee-ballot figures, including approximately 181,000 requests in Macomb County and 324,000 in Oakland County, both of which include MI-10 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0i2giys",
+        "headline": "Four weeks before Election Day, mail ballot returns are up ...",
+        "sourceName": "Michigan Secretary of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/10/06/four-weeks-before-election-day-mail-ballot-returns-are-up-30-over-same-point-in-2022",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Michigan voters can track mail-ballot status online or through their local clerk. The Secretary of State says ballots must be returned to an assigned drop box or received by the clerk by 8 p.m. on Election Day; statewide early voting runs October 24 through November 1.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0cm2f1h",
+        "headline": "Inside the process of protecting Michigan elections",
+        "sourceName": "The Alpena News",
+        "url": "https://www.thealpenanews.com/news/2026/10/inside-the-process-of-protecting-michigan-elections/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "This statewide election-administration report explains ballot programming and proofing, signature verification for absentee ballots, and Michigan’s requirement for one drop box per 15,000 registered voters—procedures applicable to MI-10 jurisdictions.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-09op7fy",
+        "headline": "Three Macomb County schools have proposals on the Nov. 3 ballot",
+        "sourceName": "Macomb Daily",
+        "url": "https://www.macombdaily.com/2026/10/04/three-macomb-county-schools-have-proposals-on-the-nov-3-ballot/",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "The article identifies three Macomb County school proposals appearing on the November 3 ballot, providing district-relevant information about additional local ballot questions for MI-10 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0ickp2p",
+        "headline": "Michigan Voter Guide: Everything you need to know ahead of the 2026 election",
+        "sourceName": "Ground News",
+        "url": "https://ground.news/article/michigan-voter-guide-everything-you-need-to-know-ahead-of-the-2026-election_5cda84",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "The guide covers Michigan registration, absentee and early-voting deadlines, identification and affidavit rules, absentee-ballot requests, and the statewide October 24–November 1 early-voting period.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0v8ts3n",
+        "headline": "Election 2026: Your mid-Michigan voter guide for November county by county",
+        "sourceName": "WKAR",
+        "url": "https://www.wkar.org/election-2026/2026-10-03/election-2026-your-mid-Michigan-voter-guide-for-november-county-by-county",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The guide states that Michigan voters may register by mail or online through October 19 and must register in person at a local clerk’s office from October 20 through Election Day. It also advises absentee voters to mail ballots before October 19 to allow delivery by the 8 p.m. deadline.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-mi10-auto",
-      "startedAt": "2026-09-30T10:20:06.432Z",
-      "completedAt": "2026-09-30T10:20:40.686Z",
+      "id": "run-2026-10-07-mi10-auto",
+      "startedAt": "2026-10-07T10:55:56.340Z",
+      "completedAt": "2026-10-07T10:56:27.586Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:20:40.686Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:56:27.586Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

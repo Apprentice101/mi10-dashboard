@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:20:03.458Z",
-  "exportedAt": "2026-10-14T09:32:56.112Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:10:28.240Z",
+  "exportedAt": "2026-10-21T09:22:49.076Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -158,7 +158,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed"
       },
       "src-mi-sos-affidavit-pdf": {
@@ -221,7 +221,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Organized by jurisdiction (county/township), not congressional district; no MI-10-specific rollup located this pass (needsReview)."
       },
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -1782,20 +1782,100 @@
         "relevanceSummary": "Michigan registration is available online, by mail, or in person through Oct. 19; afterward, voters must register in person with proof of residency. The article also notes that voters without photo ID may sign an affidavit, and describes absentee-ballot application options.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0bznr3d",
+        "headline": "Michigan voter ID laws: Here's what to know",
+        "sourceName": "Outlier Media",
+        "url": "https://outliermedia.org/michigan-voter-id-laws-what-to-know/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan polling-place voters are asked for photo identification, but a photo ID is not required to cast a ballot. This statewide rule applies directly to voters in MI-10.[9]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0ejvyn5",
+        "headline": "Early voting begins Saturday statewide",
+        "sourceName": "WNEM",
+        "url": "https://www.wnem.com/2026/10/20/early-voting-begins-saturday-statewide/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan early voting begins October 24, with election workers checking identification and voter records before issuing ballots. Absentee ballots should be returned in person when possible and must arrive by 8 p.m. on November 3.[4]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0io17zk",
+        "headline": "Early voting is about to start for most of Michigan. Here's what to know",
+        "sourceName": "WCMU",
+        "url": "https://www.wcmu.org/local-regional-news/2026-10-20/early-voting-is-about-to-start-for-most-michigan-heres-what-to-know",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan’s statewide early-voting period runs October 24 through November 1. Voters may bring a completed absentee ballot to an early-voting site to surrender it and vote using the site’s tabulator; absentee ballots must reach the local clerk by 8 p.m. on Election Day.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0kuzzby",
+        "headline": "More than 780,000 Michigan voters have cast their ballot two weeks before Election Day; active registered voter turnout reaches 10.7%",
+        "sourceName": "Michigan Department of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/10/20/more-than-780000-michigan-voters-have-cast-their-ballot-two-weeks-before-election-day",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan voters who have not returned absentee ballots should hand-deliver them to their clerk, assigned drop box, early-voting site, or polling place because ballots must be received by 8 p.m. on Election Day. Voters registering within 14 days of the election must do so in person with proof of residency.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0bu6z8a",
+        "headline": "What to know about early voting, mail-in ballots and polling times in Michigan",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/know-early-voting-mail-in-ballots-123900086.html",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Michigan absentee ballots must be completed, placed in the secrecy sleeve, signed and dated, and received by the clerk by 8 p.m. on Election Day. Election workers compare the envelope signature with signatures in state records.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0bvh3m4",
+        "headline": "MDCR Shares Civil Rights Voting Guide Ahead of Election Day",
+        "sourceName": "Michigan Department of Civil Rights",
+        "url": "https://www.michigan.gov/mdcr/news/releases/2026/10/19/mdcr-shares-civil-rights-voting-guide-ahead-of-election-day",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Michigan voters with disabilities can request an accessible electronic mail-in ballot until 5 p.m. on October 30 and return it by mail, secure drop box, or directly to their local clerk.[2]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0lmai9b",
+        "headline": "How to vote in mid-Michigan: Your 4-step guide for 2026",
+        "sourceName": "WKAR",
+        "url": "https://www.wkar.org/election-2026/2026-10-17/how-to-vote-mid-michigan-2026",
+        "publishedAt": "2026-10-17",
+        "relevanceSummary": "The statewide guide explains that online or mail registration ended October 19 and that completed absentee ballots should be returned to the jurisdiction’s clerk or official drop box, generally by 8 p.m. on Election Day.[8]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi10-0ihg6lg",
+        "headline": "Oct. 19 is the deadline to register online to vote in Nov. 3 election",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/10/17/michigan-voter-registration-deadlines/92284022007/",
+        "publishedAt": "2026-10-17",
+        "relevanceSummary": "Michigan’s online and mail voter-registration deadline for the November 3 election was October 19. During the final 14 days, MI-10 voters must register in person at their local clerk’s office and provide proof of residency.[7]",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-mi10-auto",
-      "startedAt": "2026-10-14T09:19:34.819Z",
-      "completedAt": "2026-10-14T09:20:03.458Z",
+      "id": "run-2026-10-21-mi10-auto",
+      "startedAt": "2026-10-21T09:10:06.618Z",
+      "completedAt": "2026-10-21T09:10:28.240Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
+      "sourcesChecked": 5,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for MI-10. Sources checked: 7. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for MI-10. Sources checked: 5. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:20:03.458Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:10:28.240Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",

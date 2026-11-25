@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-18",
-  "updatedAt": "2026-11-18T12:33:47.439Z",
-  "exportedAt": "2026-11-18T12:41:41.848Z",
+  "dataAsOf": "2026-11-25",
+  "updatedAt": "2026-11-25T13:46:07.355Z",
+  "exportedAt": "2026-11-25T13:50:17.748Z",
   "districtCode": "MI-10",
   "data": {
     "DISTRICT": {
@@ -272,7 +272,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "unconfirmed",
         "notes": "Reverses automatic-rejection requirement for missing/mismatched AV ballot stub numbers; ballots tabulated as 'challenged ballot' instead. Possible further appeal to MI Supreme Court (needsReview)."
       },
@@ -323,7 +323,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "unconfirmed"
       },
       "src-votingaccessforall-court-update": {
@@ -1865,17 +1865,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-18-mi10-auto",
-      "startedAt": "2026-11-18T12:33:45.099Z",
-      "completedAt": "2026-11-18T12:33:47.439Z",
+      "id": "run-2026-11-25-mi10-auto",
+      "startedAt": "2026-11-25T13:46:04.975Z",
+      "completedAt": "2026-11-25T13:46:07.355Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-18 for MI-10. Sources checked: 11. LLM verifications: 11. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-25 for MI-10. Sources checked: 11. LLM verifications: 11. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-25T12:33:47.439Z",
+    "NEXT_REFRESH_AT": "2026-12-02T13:46:07.355Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi10-2026-w28",
       "periodStart": "2026-07-09",
